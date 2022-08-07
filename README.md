@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/aTWSsMz.jpg)
 술게임 Up Down에서 영감을 받은 프로젝트입니다.
-[프로젝트 바로가기](suchul-number-game.netlify.app)
+[프로젝트 바로가기](https://suchul-number-game.netlify.app)
 
 ## 기능
 
